@@ -18,7 +18,7 @@ An autonomous AI agent built using **LangGraph**, **OpenAI**, and **Slack integr
 ## 📂 Project Structure
 
 ```
-ai_agent_project/
+AI-Agent-coding-slack-bot/
 │
 ├── nodes/
 │   ├── planner_node.py       # Decides LLM or code generation
@@ -52,7 +52,7 @@ ai_agent_project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/langgraph-ai-agent.git
+git clone https://github.com/your-username/AI-Agent-coding-slack-bot.git
 cd langgraph-ai-agent
 ```
 
